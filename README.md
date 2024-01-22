@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aleontariScalefree
+- 👀 I’m interested in Scalable Cloud Solutions, DBT, Data Vault 2.0, Web Development
+- 🌱 I’m currently learning Web Caching Optimisation
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: HTML is NP Complete
